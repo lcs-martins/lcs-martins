@@ -5,30 +5,14 @@
 
 --------------
 
-
-- :eyes: Open to learning and chat
+- :eyes: Open to learning and chat 
 - :hammer_and_wrench: Just building (or trying that :V)
 - :world_map: Brazilian
 - :confused: No more "Fun fact"...
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-martins&show_icons=true&hide_border=true&hide_rank=true" /> 
 
-<!--
-**lcs-martins/lcs-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 Just building (or trying that :V)
-- 💬 Brazilian
-- 📫 No more "Fun fact"...
-- ⚡ Fun fact: ...
--->
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-martins&show_icons=true&hide_border=true&hide_rank=true" /> <img height="180em" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact" /> 
+<img height="180em" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact" /> 
 
 ##### Qualifications
 
