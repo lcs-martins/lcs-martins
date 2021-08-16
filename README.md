@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=lcs-martins&show_icons=true&hide_border=true&hide_rank=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact)" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-martins&show_icons=true&hide_border=true&hide_rank=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact)" />
