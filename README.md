@@ -15,7 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-martins&show_icons=true&hide_border=true&hide_rank=true" /> 
 
-<img height="180em" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact" /> 
+<img height="180em" src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact&hide_border=true" /> 
 
 
 
