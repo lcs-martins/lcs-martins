@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-martins&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lcs-martins=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-martins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
