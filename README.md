@@ -1,5 +1,6 @@
 ### Hi there, call me Martins :ghost: 
-[<img height="50em" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />](https://www.credly.com/badges/42b407ff-1ed6-4c63-91a3-c161d0c5cc17)[<img height="50em" src="https://cdn.qwiklabs.com/lgxK3TpAlbNALRuOKfnPYDtiuhplriMBS2%2FBqEpt%2BB0%3D">](https://www.qwiklabs.com/public_profiles/9cfe6470-50c8-4f4f-abb7-790277e23a87/badges/1559428)
+[<img height="50em" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />](https://www.credly.com/badges/42b407ff-1ed6-4c63-91a3-c161d0c5cc17)[<img height="50em" src="https://cdn.qwiklabs.com/lgxK3TpAlbNALRuOKfnPYDtiuhplriMBS2%2FBqEpt%2BB0%3D">](https://www.qwiklabs.com/public_profiles/9cfe6470-50c8-4f4f-abb7-790277e23a87/badges/1559428)[<img height="50em" src="https://api.badgr.io/public/assertions/m0Ie2_C5TH2stuXMlE_9bg/image">](https://api.badgr.io/public/assertions/m0Ie2_C5TH2stuXMlE_9bg)
+
 --------------
 
 ### techs and knowledge :hammer: :computer: :wrench:
